@@ -1,0 +1,54 @@
+#1
+Različiti tipovi podataka postoje jer se različiti podaci drugačije predstavljaju u memoriji, imaju različite formate. Takođe svi podaci imaju različitu namjenu, bilo to prikazivanje teksta, realnih ili cijelih brojeva, nizova...
+
+#2
+Danas postoji nivo apstrakcije iznad programskog jezika koji može biti prestavljen kao AI ili drugi vid pomoćnih alata prilikom programiranja. Apstrakcija u ovom smislu predstavlja prikrivanje nižeg nivoa izvršavanja programa kao što je npr rad sa memorijom.
+
+#3
+Varijable se koriste za čuvanje vrijednosti podataka tokom izvršavanja programa
+
+#4
+Znači da se vrijednost stringa ne može mijenjati radi sprječavanja promjene neželjenih podataka npr ključeva u rječnicima. Takođe neizmjenjivost stringova omogućava bolju optimizaciju memorije.
+
+#5 
+1. True
+2. False
+3. True
+4. False
+5. False
+
+#6
+1. s = "popravni " + s[0::]
+2. s[10::]
+3. "as je vanredni is"
+4. s[::-2]
+5. s[-3::]
+6. s[int(len(s)/2-1):int(len(s)/2+1)]
+7. s[1:2]+s[-2:-1]+s[int(len(s)/2-1):int(len(s)/2+1)]
+
+#7
+1. Liste služe za predstavljanje i manipulaciju nad nizovima podataka.
+2. 3
+3. 3
+4. [2, 5, 7]
+
+#8
+1. def: Ključna riječ "def" se koristi za definisanje funkcija u Python-u. Kada koristite "def", vi stvarate novu funkciju sa zadatim imenom.
+
+2. if: "if" se koristi za uvjetnu logiku. Ova ključna riječ se koristi za provjeru da li je određeni uvjet tačan, i ukoliko jeste, izvršava se određeni blok koda.
+
+3. else: "else" se koristi u kombinaciji sa "if" kako bi se definisao blok koda koji će se izvršiti ukoliko uvjet iz "if" izjave nije ispunjen.
+
+4. for: "for" se koristi za iteriranje kroz sekvencu (npr. listu, niz, ili string) i izvršavanje određenog bloka koda za svaki element u toj sekvenci.
+
+5. while: "while" se koristi za ponavljanje određenog bloka koda sve dok je uvjet tačan. Ovaj blok koda će se izvršavati sve dok je uvjet zadovoljen.
+
+6. return: "return" se koristi u funkcijama kako bi se vratio rezultat iz funkcije nazad pozivajućoj tački u programu. Ovo omogućava funkciji da proizvede neki rezultat koji se može koristiti dalje.
+
+7. and: "and" se koristi kao logički operator kako bi se provjerilo da li su oba uslova tačna. Ako jesu, uvjet će biti tačan.
+
+8. or: "or" se koristi kao logički operator kako bi se provjerilo da li je bar jedan od uslova tačan. Ako je bar jedan od uslova tačan, uvjet će biti tačan.
+
+9. not: "not" se koristi kao logički operator koji mijenja logičku vrijednost na suprotnu. Na primjer, ako je uslov "True", "not True" će biti "False".
+
+10. import: "import" se koristi za uvozavanje modula u Python program. Moduli su skupovi funkcija i klasa koje omogućavaju dodatne funkcionalnosti, i kada ih uvezemo, možemo koristiti te funkcije i klase u našem programu.
